@@ -1,3 +1,16 @@
 theme: minima
 title: MPConnect Documentation
-description: All documentation related to MPconnect platform
+description: All documentation related to MPConnect platform
+
+minima:
+  nav_pages: [] # removes all header links
+  social_links:
+    - title: Abbatek at GitHub
+      icon: github
+      url: "https://github.com/AbbaTek-Group"
+    - title: Abbatek at LinkedIn
+      icon: linkedin
+      url: "https://ca.linkedin.com/company/abbatek"
+    - title: Abbatek at X (formerly Twitter)
+      icon: x-twitter
+      url: "https://x.com/abbatekgroup"
