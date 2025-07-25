@@ -1,9 +1,13 @@
 # MPConnect-Documentation
 
-All documentation related to MPconnect platform
+All documentation related to MPConnect platform
 
-- [Blogs](Blogs/README.md)
-- [Explanation](Explanation/README.md)
-- [How-To Guides](How-to-guides/README.md)
-- [Reference](Reference/README.md)
-- [Tutorial](Tutorial/README.md)
+View the full documentation site: [MPConnect Documentation](https://abbatek-group.github.io/MPConnect-Documentation/)
+
+## Sections
+
+- Blogs
+- Explanation
+- How-To Guides
+- Reference
+- Tutorials
