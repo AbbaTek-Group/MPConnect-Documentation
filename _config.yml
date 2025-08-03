@@ -1,9 +1,12 @@
-theme: minima
 title: MPConnect Documentation
-description: All documentation related to MPConnect platform
+
+plugins:
+  - jekyll-remote-theme 
+
+remote_theme: jekyll/minima
 
 minima:
-  nav_pages: [] # removes all header links
+  nav_pages: [''] # removes all header links
   social_links:
     - title: Abbatek at GitHub
       icon: github
