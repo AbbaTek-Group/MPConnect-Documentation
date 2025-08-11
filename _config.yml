@@ -1,0 +1,20 @@
+title: MPConnect Documentation
+description: ""
+
+plugins:
+  - jekyll-remote-theme 
+
+remote_theme: jekyll/minima
+
+minima:
+  nav_pages: [''] # removes all header links
+  social_links:
+    - title: Abbatek at GitHub
+      icon: github
+      url: "https://github.com/AbbaTek-Group"
+    - title: Abbatek at LinkedIn
+      icon: linkedin
+      url: "https://ca.linkedin.com/company/abbatek"
+    - title: Abbatek at X (formerly Twitter)
+      icon: x-twitter
+      url: "https://x.com/abbatekgroup"
